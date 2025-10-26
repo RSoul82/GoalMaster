@@ -1,0 +1,60 @@
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe.config
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\bin\Debug\GoalMaster.pdb
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csprojResolveAssemblyReference.cache
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Form1.resources
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Properties.Resources.resources
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.GenerateResource.Cache
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.pdb
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.ExportWindow.resources
+C:\Users\Robin\c-sharp\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe.config
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.pdb
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.ExportWindow.resources
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Form1.resources
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.GenerateResource.cache
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.pdb
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.AssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.SettingsWindow.resources
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe.config
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.Up2Date
+Z:\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe.config
+Z:\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe
+Z:\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.pdb
+Z:\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.dll
+Z:\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.xml
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.AssemblyReference.cache
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe.config
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.ExportWindow.resources
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Form1.resources
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Properties.Resources.resources
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.SettingsWindow.resources
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.GenerateResource.cache
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.CoreCompileInputs.cache
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.Up2Date
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe
+Z:\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.pdb
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe.config
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.exe
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\GoalMaster.pdb
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.AssemblyReference.cache
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe.config
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.ExportWindow.resources
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Form1.resources
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.Properties.Resources.resources
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.SettingsWindow.resources
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.GenerateResource.cache
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.CoreCompileInputs.cache
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.csproj.Up2Date
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.exe
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.pdb
+C:\Users\rc82w\Documents\Visual Studio 2017\Projects\GoalMaster\GoalMaster\obj\Debug\GoalMaster.ImportFromSelection.resources
